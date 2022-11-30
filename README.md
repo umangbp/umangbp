@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **umang2332@gmail.com**
 
+<a href="https://app.daily.dev/umang2332"><img src="https://api.daily.dev/devcards/d6b4548c81c0484d8052b7435595b694.png?r=lo5" width="400" alt="Umang Patel's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umang-patel-2606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umang-patel-2606" height="30" width="40" /></a>
